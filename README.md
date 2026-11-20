@@ -10,6 +10,10 @@ his [2025 BFCM playbook](https://www.nik.co/newsletter/2025-08-31-nik-sharmas-20
 comes from. The Shopify admin paths, and the few checks marked **ECORN**, are ours. Read Nik's originals for the full
 reasoning and examples.
 
+**Work through it with an AI agent:** Claude Code, Codex or Cursor can audit your store against these checks and
+fix what you approve. Start here: [START-WITH-AN-AGENT.md](START-WITH-AN-AGENT.md) (setup and a ready prompt) and
+[AGENTS.md](AGENTS.md) (the rules the agent follows).
+
 Admin menu names are as of November 2026 and can differ slightly by plan or language.
 
 ## 1. The offer
