@@ -11,8 +11,8 @@ comes from. The Shopify admin paths, and the few checks marked **ECORN**, are ou
 reasoning and examples.
 
 **Work through it with an AI agent:** Claude Code, Codex or Cursor can audit your store against these checks and
-fix what you approve. Start here: [START-WITH-AN-AGENT.md](START-WITH-AN-AGENT.md) (setup and a ready prompt) and
-[AGENTS.md](AGENTS.md) (the rules the agent follows).
+fix what you approve. Install it as a skill in one line: [INSTALL-SKILL.md](INSTALL-SKILL.md). Or start without installing:
+[START-WITH-AN-AGENT.md](START-WITH-AN-AGENT.md) (setup and a ready prompt), with the rules in [AGENTS.md](AGENTS.md).
 
 Admin menu names are as of November 2026 and can differ slightly by plan or language.
 

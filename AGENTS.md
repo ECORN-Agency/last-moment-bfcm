@@ -104,3 +104,8 @@ Sale: <start> to <end> (<time zone>) · Freeze from: <time>
 
 The checks follow Nik Sharma's last-minute BFCM checklist, 2025 playbook and 2026 planning guide (linked in
 README.md). This guide is general advice, not a guarantee: the merchant tests every change on their own store.
+
+## Keeping copies in sync
+
+`skills/last-moment-bfcm/` repeats this guide and the checklist so the skill works on its own. When you change
+README.md or AGENTS.md, update `skills/last-moment-bfcm/` and rebuild `last-moment-bfcm-skill.zip`.
